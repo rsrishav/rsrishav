@@ -3,3 +3,5 @@
          height="45"
          width="45" /> It's Rishav.</h1>
 <h5 align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsrishav)
